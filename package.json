@@ -1,0 +1,7 @@
+{
+  "name": "migration-poc",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo Building Application..."
+  }
+}
